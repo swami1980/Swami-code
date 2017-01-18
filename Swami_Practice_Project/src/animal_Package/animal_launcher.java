@@ -12,7 +12,7 @@ animal a1 = new lion("Raja");
 System.out.println(" i go by the name" + a1.getName());
  elephant e1 = new elephant();
 vet v = new vet();
-d1.decibel=20;
+d1.decibel=40;
 
 d1.makeNoise(); //from animal
  d1.testhierarchy(d2).befriendly();
