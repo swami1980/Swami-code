@@ -28,7 +28,7 @@ public animal(){
 		 
 		 
 		
-		if (decibel >100) {
+		if (decibel >120) {
 			System.out.println("Its a elephant's trumphet");
 			
 		}
